@@ -1,3 +1,3 @@
 # prueba
 
-Hola <Mundo>
+Hola Mundo
